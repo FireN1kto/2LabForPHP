@@ -1,8 +1,8 @@
 <?php
 $host = 'localhost';
-$user = 'root';
-$password = '';
-$database = 'guarantee_repair';
+$user = 'hvpetxch';
+$password = 'Y2DNhV';
+$database = 'hvpetxch_m3';
 
 // Подключение к MySQL
 $mysqli = mysqli_connect($host, $user, $password, $database);

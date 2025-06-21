@@ -1,0 +1,3 @@
+[Wed Apr 23 23:00:32.849984 2025] [php:warn] [pid 3740113] [client 10.30.8.5:56258] PHP Warning:  Undefined array key -1 in /srv/users/hvpetxch/iaxbpcp-m3/index.php on line 12, referer: http://wsr.ru/
+[Tue May 20 23:17:45.139748 2025] [php:warn] [pid 2160719] [client 10.30.8.63:57624] PHP Warning:  Undefined array key -1 in /srv/users/hvpetxch/iaxbpcp-m3/index.php on line 12, referer: http://wsr.ru/
+[Tue May 20 23:18:24.819442 2025] [php:warn] [pid 2161834] [client 10.30.8.63:57628] PHP Warning:  Undefined array key -1 in /srv/users/hvpetxch/iaxbpcp-m3/index.php on line 12, referer: http://wsr.ru/
